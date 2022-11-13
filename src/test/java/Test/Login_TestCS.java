@@ -1,8 +1,11 @@
 package Test;
 
 public class Login_TestCS {
-	public static void main(String[] args) {
+	public  void login() {
 		System.out.println("hiii");
+		System.out.println("login me");
+		
+		
 	}
 
 }
